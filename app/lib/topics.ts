@@ -21,4 +21,6 @@ export const AVAILABLE_TOPICS: Topic[] = [
     { id: 'mythology', name: 'Mythology', color: 'bg-purple-600' },
     { id: 'oceans', name: 'Oceans', color: 'bg-blue-600' },
     { id: 'inventions', name: 'Inventions', color: 'bg-cyan-600' },
+    { id: 'anime', name: 'Anime', color: 'bg-rose-600' },
+    { id: 'coding', name: 'Coding Basics', color: 'bg-indigo-600' },
   ];
